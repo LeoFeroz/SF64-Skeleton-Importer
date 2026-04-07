@@ -15,7 +15,7 @@ Requires Fast64 (HM64) to import with meshes.
 https://github.com/HarbourMasters/fast64
 
 # Usage
-**-Set the microcode in Fast64 as F3DLX or higher.**
+**-Set the microcode in Fast64 as F3DEX/LX or higher.**
 
 **-In the C file field, select the .c file that contains your Limb skeleton.**
 
