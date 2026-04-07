@@ -13,3 +13,23 @@ Imports Limb* Skeletons from StarFox64
 
 Requires Fast64 (HM64) to import with meshes.
 https://github.com/HarbourMasters/fast64
+
+# Usage
+**-Set the microcode in Fast64 as F3DLX or higher.**
+
+**-In the C file field, select the .c file that contains your Limb skeleton.**
+
+**-In the Name field, enter the name of your skeleton.**
+
+**-Click Import** 
+
+**-Import Skeleton Only**
+
+**or**
+
+**-Import All (Fast64)** //Requires Fast64 (HM64) Addon to function
+
+
+
+<img width="589" height="579" alt="image" src="https://github.com/user-attachments/assets/a5e08052-9c3e-4bc3-a50e-a486c6dcf7b4" />
+
