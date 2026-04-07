@@ -1,4 +1,7 @@
-# SF64-Skeleton-Importer
+## SF64-Skeleton-Importer
+
+* **Blender 3.6**
+
 An add-on/extension for Fast64 (HM64)
 
 
