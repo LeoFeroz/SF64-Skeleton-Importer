@@ -11,7 +11,7 @@ An add-on/extension for Fast64 (HM64) that imports Limb* Skeletons from StarFox6
 
 1. **Fast64 Panel**
    - Set the microcode as `F3DEX/LX` or higher.
-   - Set the Game as `OOT` or higher.
+   - Set the Game as `OOT`
 
 2. **OOT Panel**
    - Set the game's **Decomp Path** `(C:\"folder")`
