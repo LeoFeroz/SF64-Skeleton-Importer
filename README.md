@@ -18,7 +18,13 @@ Requires Fast64 (HM64) to import with meshes.
 https://github.com/HarbourMasters/fast64
 
 # Usage
-**-Set the microcode in Fast64 as F3DEX/LX or higher.**
+**-Set the microcode in Fast64 Painel as F3DEX/LX or higher.**
+
+**-In the OOT Painel**
+**set the game's Decomp Path (C:)**
+**set the Game Version to    (Legacy) **
+**set the Feature Set to     (HM64) **
+
 
 **-In the C file field, select the .c file that contains your Limb skeleton.**
 
